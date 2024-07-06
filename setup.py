@@ -1,12 +1,12 @@
 from setuptools import setup, find_packages
 
-VERSION = '0.0.1'
+VERSION = '0.0.5'
 DESCRIPTION = 'Easy Access for NationsGlory API in Python'
 LONG_DESCRIPTION = 'A package that allows to easily access the NationsGlory API in Python.'
 
 # Setting up
 setup(
-    name="ngpy",
+    name="nglory-py",
     version=VERSION,
     author="BigTallahasee",
     author_email="",
